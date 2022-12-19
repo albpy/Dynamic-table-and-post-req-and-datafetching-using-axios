@@ -1,0 +1,47 @@
+form is - http://localhost:3000/
+table is -http://localhost:3000/table
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//data dynamic table complete with an aditional routing
